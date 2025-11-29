@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+yfinance
+plotly
+scikit-learn
+scipy
+networkx
+fpdf
+xlsxwriter
+requests
+statsmodels
+matplotlib
+seaborn
+stripe

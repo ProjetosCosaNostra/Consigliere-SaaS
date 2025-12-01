@@ -12,4 +12,6 @@ requests
 statsmodels
 matplotlib
 seaborn
+python-dotenv
 stripe
+streamlit-aggrid
